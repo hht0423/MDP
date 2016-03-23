@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/util/msgUtil/MessageConfigure.java=UTF-8
+encoding//src/util/msgUtil/MessageConfigureUtil.java=UTF-8
+encoding//src/util/msgUtil/MessageSendTool.java=UTF-8
+encoding//src/util/msgUtil/MessageSessionUtil.java=UTF-8
+encoding//src/util/msgUtil/MessageSubScriber.java=UTF-8
+encoding//src/util/msgUtil/exception/MessageException.java=UTF-8
+encoding//src/util/msgUtil/filter/BroadcastScriptSessionFilter.java=UTF-8
+encoding//src/util/msgUtil/filter/MassScriptSessionFilter.java=UTF-8
+encoding//src/util/msgUtil/filter/UnicastScriptSessionFilter.java=UTF-8
+encoding//src/util/msgUtil/listener/ScriptSessionEventListener.java=UTF-8
+encoding//src/util/msgUtil/task/BroadcastTask.java=UTF-8
+encoding//src/util/msgUtil/task/MassTask.java=UTF-8
+encoding//src/util/msgUtil/task/UnicastTask.java=UTF-8
+encoding//src/util/msgUtil/util/MsgPropertiesUtil.java=UTF-8
+encoding//src/util/msgUtil/util/UserInfoUtil.java=UTF-8
